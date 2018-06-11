@@ -20,5 +20,5 @@ include_directories(${GTEST_DIR}/include ${GTEST_DIR})
 # add your test folders
 add_subdirectory(factorial_test)
 add_subdirectory(square_test)
-add_subdirectory(array_test)
+add_subdirectory(death_test)
 add_subdirectory(valueParameterizedTests)

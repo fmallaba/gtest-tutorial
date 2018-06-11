@@ -8,5 +8,4 @@ enable_testing()
 
 add_subdirectory(factorial)
 add_subdirectory(square)
-add_subdirectory(array)
 add_subdirectory(tests)
